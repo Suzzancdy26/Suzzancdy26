@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Software developer in progress focused on Python and full-stack development.<br>🔭 Currently building Python projects, including an AI-based car simulation, while improving problem-solving skills.<br>📚 Learning advanced Python, Git & GitHub, and fundamentals of AI and software design.
+👨‍💻 Software developer in progress focused on Python and full-stack development.<br>🔭 Currently building Python projects.<br>📚 Learning advanced Python,Html,Css,JavaScript Git & GitHub, and fundamentals of AI and software design.
 
 
 
